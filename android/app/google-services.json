@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641485994172",
+    "project_id": "chat-apptest-16d6f",
+    "storage_bucket": "chat-apptest-16d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641485994172:android:82547fd472db175b2bb8b9",
+        "android_client_info": {
+          "package_name": "com.elyneker.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641485994172-g2e1mqqs5e0rokbc1q3mqr1uo2b3j0gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfuGJFq37J9grXa6UnqvZZDfkgz4iX8mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641485994172-g2e1mqqs5e0rokbc1q3mqr1uo2b3j0gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
